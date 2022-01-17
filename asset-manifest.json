@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Relica/static/js/main.de4d611d.js",
-    "static/js/787.b93c9d3c.chunk.js": "/Relica/static/js/787.b93c9d3c.chunk.js",
-    "index.html": "/Relica/index.html",
-    "main.de4d611d.js.map": "/Relica/static/js/main.de4d611d.js.map",
-    "787.b93c9d3c.chunk.js.map": "/Relica/static/js/787.b93c9d3c.chunk.js.map"
+    "main.js": "/relica-sc/static/js/main.4951202b.js",
+    "static/js/787.b93c9d3c.chunk.js": "/relica-sc/static/js/787.b93c9d3c.chunk.js",
+    "index.html": "/relica-sc/index.html",
+    "main.4951202b.js.map": "/relica-sc/static/js/main.4951202b.js.map",
+    "787.b93c9d3c.chunk.js.map": "/relica-sc/static/js/787.b93c9d3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.de4d611d.js"
+    "static/js/main.4951202b.js"
   ]
 }
